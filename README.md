@@ -6,7 +6,7 @@ Machine Learning Resources, Practice and Research.
 The resources in this repo are only for educational purpose. Do not use resources in this repo for any form of commercial purpose.
 
 If the author of ebook found your intelligence proprietary violated because of contents in this repo, please contact me and I will remove relevant stuff ASAP.
-
+https://towardsdatascience.com/5-free-books-to-take-your-data-science-skills-to-the-next-level-a2026c8cad71
 ***
 
 ## Courses
